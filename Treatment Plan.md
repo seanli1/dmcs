@@ -1,5 +1,5 @@
 [Home](index)
-# Methodology
+# Treatment Plan
 
 1. **Boost your data storage setup to be more organized and protected against loss**
 	- **Short term data storage** - abundant storage, RAID/NAS

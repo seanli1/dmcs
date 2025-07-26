@@ -1,11 +1,6 @@
 [Home](index)
 # Offering Model
 
-> [!warning] They must sign off on understanding the following:
-> - Using a NAS means that you own the data. If you lose it and don't have it properly backed up, you lose it for good.
-> - If the NAS goes offline, that means your data isn't accessible.
-> - The trade off is that it's significantly cheaper per TB to store data, as well as faster for data transfers. This is extremely handy in our business, and helps us work more efficiently.
-
 **STARTER**: Get off the ground with neatly organized and protected local data storage. No more hacky short-term solutions.
 
 **PRO**: Elevate your setup with a *tailored* local data storage solution, built with your needs in mind, as well as basic networking solutions for remote access.
