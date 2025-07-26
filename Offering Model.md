@@ -1,3 +1,4 @@
+# Offering Model
 
 > [!warning] They must sign off on understanding the following:
 > - Using a NAS means that you own the data. If you lose it and don't have it properly backed up, you lose it for good.
@@ -76,3 +77,4 @@
 
 ---
 
+[Home](index)
