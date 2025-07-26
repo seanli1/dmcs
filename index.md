@@ -1,5 +1,5 @@
 # Home
 
-- [Treatment Plan](Treatment%20Plan.md)
+- [Treatment Plan](Treatment Plan)
 - [Offering Model](Offering Model)
 - [Who Am I?](Who Am I)
