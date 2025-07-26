@@ -1,4 +1,4 @@
-# Pages
+# Home
 
 - [Methodology](Methodology)
 - [Offering Model](Offering Model)

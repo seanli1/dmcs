@@ -1,3 +1,4 @@
+[Home](index)
 # Offering Model
 
 > [!warning] They must sign off on understanding the following:

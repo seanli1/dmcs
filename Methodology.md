@@ -1,3 +1,4 @@
+[Home](index)
 # Methodology
 
 1. **Boost your data storage setup to be more organized and protected against loss**
