@@ -10,9 +10,20 @@
 
 **STUDIO**: Get the full setup with tailored data storage, tailored networking solutions, and customizable setup with scripting and automation.
 
+|                                      | Starter     | Pro           | Studio        |
+| ------------------------------------ | ----------- | ------------- | ------------- |
+| One-time setup fee (chat rec)        | $1250-1750  | $3000-4500    | $6500-9500    |
+| Recurring maintenance fee (chat rec) | $600-750/yr | $1200-1800/yr | $2500-3500/yr |
+| One-time setup fee                   | $1500       | $4000         | $8000         |
+| Recurring maintenance fee            | $500/yr     | $1500/yr      | $3000/yr      |
+| Active support fee                   | $100/hr     | $100/hr       | $100/hr       |
+| Data Storage                         | Streamlined | Custom        | Custom        |
+| Networking                           | -           | Streamlined   | Custom        |
+| Customized Solutions                 | -           | -             | Custom        |
+
 ---
 # Data Storage Scheme
-## Starter (baseline template)
+## Starter
 
 - **Set up NAS or other main storage device**
 	- Set up NAS/RAID (Synology only)
@@ -40,7 +51,7 @@
 	- Automatic syncing to a cold archive (append-only option available)
 	- ***Why upgrade:*** You won't have to worry about having to remember to back up to a cold device every month. We will perform the cold backups for you on a monthly basis.
 
-## Studio (includes Starter & Pro)
+## Studio (includes Pro)
 
 - **Custom workflows**
 	- Custom scripts/automation based on your needs
@@ -48,7 +59,7 @@
 ---
 # Networking Scheme
 
-## Pro (baseline template)
+## Pro
 
 - **Set up file sharing (locally and online)**
 	- Set up secure file sharing so pre-authorized users can upload/download files anywhere (device-to-device transfers)
@@ -62,3 +73,6 @@
 - **Consultation**
 	- Discuss best practices to handle data securely, privately, and without outsider tampering
 	- Discuss ways to optimize networking infrastructure to increase speeds and reduce headache (consulting on switches, routers, network topology, etc.)
+
+---
+
