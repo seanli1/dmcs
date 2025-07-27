@@ -1,6 +1,10 @@
 [Home](index)
 # Networking Scheme
 
+## Starter
+
+- **None**
+
 ## Pro
 
 - **Set up file sharing (locally and online)**

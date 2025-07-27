@@ -9,15 +9,16 @@
 
 ## Pricing
 
-|                                          | Starter     | Pro         | Studio   |
-| ---------------------------------------- | ----------- | ----------- | -------- |
-| One-time **setup** fee                   | $1500       | $4000       | $8000    |
-| Recurring **maintenance** fee (optional) | $500/yr     | $1500/yr    | $3000/yr |
-| Active support fee                       | $100/hr     | $100/hr     | $100/hr  |
-| [Data Storage](Data Storage Scheme)      | Streamlined | Custom      | Custom   |
-| [Networking](Networking Scheme)          | -           | Streamlined | Custom   |
-| Customized Solutions                     | -           | -           | Custom   |
-|                                          |             |             |          |
+|                                                  | Starter     | Pro         | Studio   |
+| ------------------------------------------------ | ----------- | ----------- | -------- |
+| One-time **setup** fee                           | $1500       | $4000       | $8000    |
+| Recurring **maintenance** fee (optional)         | $500/yr     | $1500/yr    | $3000/yr |
+| Active support fee                               | $100/hr     | $100/hr     | $100/hr  |
+| [Data Storage](Data Storage Scheme)              | Streamlined | Custom      | Custom   |
+| [Networking](Networking Scheme)                  | -           | Streamlined | Custom   |
+| Customized Solutions                             | -           | -           | Custom   |
+| [Post-setup maintenance](Post-setup Maintenance) | Yes         | Yes         | Yes      |
+| [Additional services](Additional Services)       | Yes         | Yes         | Yes      |
 
 ---
 
