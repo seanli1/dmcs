@@ -10,7 +10,7 @@
 	- [Post-setup Maintenance](Post-setup Maintenance)
 	- [Additional Services](Additional Services)
 
-## Other
+# Other
 
 - [Baseline Knowledge](Baseline Knowledge)
 - [Who Am I?](Who Am I)
