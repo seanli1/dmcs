@@ -1,4 +1,4 @@
-[Home](index)
+#dmcs
 # Offering Model
 
 **STARTER**: Get off the ground with neatly organized and protected local data storage. No more hacky short-term solutions.
@@ -19,7 +19,3 @@
 | Customized Solutions                             | -           | -           | Custom   |
 | [Post-setup maintenance](Post-setup Maintenance) | Yes         | Yes         | Yes      |
 | [Additional services](Additional Services)       | Yes         | Yes         | Yes      |
-
----
-
-[Home](index)

@@ -1,4 +1,4 @@
-[Home](index)
+#dmcs
 # Additional Services
 
 | Service                                  | Fee                    |
@@ -9,7 +9,3 @@
 | Transcoding files                        | $2/min of compute time |
 | Rendering (Blender, etc.)                | $2/min of compute time |
 | Encrypting files                         | $2/min of compute time |
-
----
-
-[Home](index)

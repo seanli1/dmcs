@@ -1,4 +1,4 @@
-[Home](index)
+#dmcs
 # Post-setup Maintenance
 ## Passive Maintenance (included)
 
@@ -36,7 +36,3 @@
 	- Adding and removing users
 - **STUDIO:**
 	- Priority response SLA (especially when a deadline is on the line)
-
----
-
-[Home](index)

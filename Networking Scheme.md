@@ -1,4 +1,4 @@
-[Home](index)
+#dmcs
 # Networking Scheme
 
 ## Starter
@@ -19,7 +19,3 @@
 - **Consultation**
 	- Discuss best practices to handle data securely, privately, and without outsider tampering
 	- Discuss ways to optimize networking infrastructure to increase speeds and reduce headache (consulting on switches, routers, network topology, etc.)
-
----
-
-[Home](index)

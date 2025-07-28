@@ -1,4 +1,4 @@
-[Home](index)
+#dmcs
 # Data Storage Scheme
 ## Starter
 
@@ -32,7 +32,3 @@
 
 - **Custom workflows**
 	- Custom scripts/automation based on your needs
-
----
-
-[Home](index)
